@@ -17,3 +17,5 @@ Atualmente estou cursando Engenharia de Computação. Faço também cursos de Fu
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+![IsaacVNX GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacVNX&show_icons=true&theme=radical)
