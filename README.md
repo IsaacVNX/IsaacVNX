@@ -5,10 +5,9 @@ Meu nome é Isaac Moura, sou estudante e um apaixonado pela tecnologia.
 Atualmente estou cursando Engenharia de Computação. Faço também cursos de Full Stack como por exemplo o de Desenvolvimento Full Stack ministrado pela Vai na Web e participo de algumas imersões e bootcamps que aparecem pela internet. Hoje meu foco é me tornar engenheiro de software e estou estudando para isso.
 
 ## Onde me encontrar
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oi.isaac_/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/IsaacM19)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-moura21/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](isaacmoura.cardoso@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oi.isaac_/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/isaacmoura21)
 
 ## Hard Skills
