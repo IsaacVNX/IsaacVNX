@@ -2,7 +2,7 @@
 
 Meu nome é Isaac Moura, sou estudante e um apaixonado pela tecnologia.
 
-Atualmente estou cursando Engenharia de Computação. Conclui também o curso de Desenvolvimento Full Stack ministrado pela Vai na Web e participo de algumas imersões e bootcamps que aparecem pela internet. Hoje faço projetos pessoais como landing pages, sistemas basicos, automações.
+Atualmente estou cursando Engenharia de Computação. Conclui também o curso de Desenvolvimento Full Stack ministrado pela Vai na Web e participo de algumas imersões e bootcamps que aparecem pela internet. Hoje faço projetos pessoais como landing pages, sistemas basicos e automações.
 
 ## Onde me encontrar
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IsaacM19)
